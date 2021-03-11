@@ -1,6 +1,15 @@
 Plantilla para informe académico entrega 1
 
 
+| Identificación
+|-----------
+| Fundamentos de Ingeniería de Software
+M4A - Docente: Alejandro Adorjan
+María González, Juan Rodríguez
+03/05/2021
+https://github.com/FIS-202103/entrega1.git
+
+
 # Repositorio Git
 
 ## Creación y uso de repositorios locales y remotos
