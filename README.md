@@ -21,9 +21,10 @@ https://github.com/FIS-202103/entrega1.git
 
 ## Buenas prácticas de versionado
 
-## Resumen de commits y contribuciones individuales
-
 ## Uso de ramas separadas de 'main'
+
+## Resumen de commits y evolución del proyecto
+
 
 
 # Elicitación
